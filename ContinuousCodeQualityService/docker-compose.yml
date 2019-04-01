@@ -1,7 +1,7 @@
 # Author: João Fiuza de Alencastro
 # Date: 18/3/2019
 #
-# This docker-compose file creates a nexus, a sonarqube and a postgresql DB.
+# This docker-compose file creates a nexus, a jenkins, a sonarqube and a postgresql DB.
 
 version: "3.3"
 
